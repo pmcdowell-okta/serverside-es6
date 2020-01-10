@@ -1,0 +1,12 @@
+.idea/*
+.env
+node_modules/*
+bin/*
+pkg/*
+src/github.com/*
+keys.tf
+**/keys.tf
+**/.terraform/*
+**/terraform.tfstate.backup
+**/terraform.tfstate
+**/.DS_Store
